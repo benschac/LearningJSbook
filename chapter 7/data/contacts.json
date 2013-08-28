@@ -1,0 +1,40 @@
+  {
+	"addressBook" : [
+	{
+		"name" : "Benjamin Schachter",
+		"email": "benschac@gmail.com"
+	},
+	{
+		"name" : "Samuel Schachter",
+		"email": "samschac@gmail.com"
+	},
+	{
+		"name" : "Jason Schachter",
+		"email": "jasonsc@gmail.com"
+	},
+	{
+		"name" : "Helen Cohen",
+		"email": "helen@gmail.com"
+	},
+	{
+		"name" : "Steven Jobs",
+		"email": "steve@hotmail.com"
+	},
+	{
+		"name" : "Bill Gates",
+		"email": "Bill@me.com"
+	},
+	{
+		"name" : "Michael Schachter",
+	   "email" : "mzs@gmail.com"
+	},
+	{
+		"name" : "Josh Schachter",
+		"email": "baldguy@nfl.com"
+	},
+	{
+		"name": "Dan Schachter",
+		"email":"dansc@gmail.com"
+	}
+	]
+}
