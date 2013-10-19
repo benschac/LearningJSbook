@@ -1,0 +1,1 @@
+$(document).ready(function(){$("button").click(function(){$(".module").animate({height:"0px"},1e3,function(){$("button").text("now what, smart guy?")})})});

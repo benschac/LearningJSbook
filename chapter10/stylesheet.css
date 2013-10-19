@@ -1,0 +1,14 @@
+#container {
+	overflow: hidden;
+}
+
+.module {
+	width: 33%;
+	float: left;
+	background: #eee;
+}
+
+.btn {
+	left: 50%;
+	margin: 0 auto;
+}
